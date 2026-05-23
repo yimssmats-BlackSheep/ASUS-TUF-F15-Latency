@@ -1,6 +1,6 @@
 # ASUS-TUF-F15-Latency
 Official 15-minute DPC Latency stability benchmark showcase on a newly optimized ASUS TUF Gaming F15.
-# ASUS TUF F15 (FX506HC) Custom DPC Latency Benchmark Showcase 🏆💻
+# ASUS TUF F15 (FX506HC) Custom DPC Latency Benchmark Showcase 
 
 Official performance profile and stability showcase for the synchronized system re-tune layout. This private project focuses on micro-stutter elimination and low-level kernel thread optimization under standard operational conditions.
 
