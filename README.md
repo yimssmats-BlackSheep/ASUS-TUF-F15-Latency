@@ -33,3 +33,4 @@ The benchmark environment was configured to observe system behavior under real-w
 
 ---
 *Note: This repository functions exclusively as a performance portfolio and technical showcase. The custom registry layout, specialized sub-system structures, and power framework configuration blueprints are kept private and are not available for download.*
+"Cross-Platform Architecture: Perfectly optimized and fully stable for both high-end Desktop PCs and budget Laptops."(สถาปัตยกรรมข้ามแพลตฟอร์ม: ปรับแต่งมาอย่างสมบูรณ์แบบและเสถียร 100% ทั้งบนเดสก์ท็อปพีซีสเปกสูงและแล็ปท็อปสเปกเริ่มต้น)
