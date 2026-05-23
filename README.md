@@ -6,7 +6,8 @@ Official performance profile and stability showcase for the synchronized system 
 
 ## 📺 Official 15-Minute Video Proof
 The full, uninterrupted 15-minute official standard stability run has been captured and documented on YouTube:
-👉 **[Watch the Full Benchmark on YouTube]([https://youtu.be](https://youtu.be/c184ZqgRzaQ?si=EpcpMrCrsFenNYfG))**
+👉👉 **[Watch the Full Benchmark on YouTube](https://youtu.be/c184ZqgRzaQ?si=EpcpMrCrsFenNYfG)**
+**
 
 ## 📊 Standard Test Parameters & Environment
 The benchmark environment was configured to observe system behavior under real-world network and rendering load:
